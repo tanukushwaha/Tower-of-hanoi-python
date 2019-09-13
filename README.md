@@ -1,4 +1,4 @@
-# Tower-of-hanoi-pyhton-implementation
+# Tower-of-hanoi-python-implementation
 Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. 
 The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules:
 1) Only one disk can be moved at a time.
